@@ -1,0 +1,9 @@
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using PC.Models.Entities;
+global using PC.Models.Entities.Base;
+global using PC.Store.Configurations;
+global using PC.Models.Enums;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using PC.Store.Constants;
+global using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
